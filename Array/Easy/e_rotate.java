@@ -1,3 +1,4 @@
+package Array.Easy;
 public class e_rotate {
     public static void main(String[] args) {
         // rotate an array

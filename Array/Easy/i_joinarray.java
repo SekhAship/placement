@@ -1,3 +1,4 @@
+package Array.Easy;
 public class i_joinarray {
     public static void main(String[] args) {
         int arr1[] = { 1, 2, 3 };
