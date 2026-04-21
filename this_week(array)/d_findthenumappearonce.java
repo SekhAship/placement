@@ -1,4 +1,4 @@
-package Array.Easy;
+package today;
 import java.util.*;
 
 ///// XORRRRRR........

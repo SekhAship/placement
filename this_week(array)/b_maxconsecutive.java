@@ -1,4 +1,4 @@
-package Array.Easy;
+package today;
 public class b_maxconsecutive {
 
     public static void main(String[] args) {

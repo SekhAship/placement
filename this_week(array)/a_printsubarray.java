@@ -1,4 +1,4 @@
-package Array.Easy;
+package today;
 // bruteforce
 // time complexity =o(n)^3
 public class a_printsubarray {

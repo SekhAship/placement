@@ -1,4 +1,4 @@
-package Array.Easy;
+package today;
 public class c_findmissingelem {
     int[] arr = { 1, 2, 3, 5 };
 
