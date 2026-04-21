@@ -1,3 +1,4 @@
+package Array.Easy;
 import java.util.*;
 
 ///// XORRRRRR........
@@ -17,7 +18,7 @@ import java.util.*;
 // }
 
 ///// MAPPPP............
-public class d_findthenumappearonce {
+public class d_findthenumappearonce {  
     public static void main(String[] args) {
         int[] arr = { 1, 3, 4, 4, 2, 2, 3 };
         HashMap<Integer, Integer> map = new HashMap<>();

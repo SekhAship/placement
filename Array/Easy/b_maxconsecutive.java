@@ -1,3 +1,4 @@
+package Array.Easy;
 public class b_maxconsecutive {
 
     public static void main(String[] args) {
