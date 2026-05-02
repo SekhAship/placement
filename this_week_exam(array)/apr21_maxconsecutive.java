@@ -1,5 +1,4 @@
-package today;
-public class b_maxconsecutive {
+public class apr21_maxconsecutive {
 
     public static void main(String[] args) {
         int[] arr = { 1, 1, 0, 1 };

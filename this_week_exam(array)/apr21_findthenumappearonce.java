@@ -1,4 +1,3 @@
-package today;
 import java.util.*;
 
 ///// XORRRRRR........
@@ -18,14 +17,15 @@ import java.util.*;
 // }
 
 ///// MAPPPP............
-public class d_findthenumappearonce {  
+public class apr21_findthenumappearonce {  
     public static void main(String[] args) {
         int[] arr = { 1, 3, 4, 4, 2, 2, 3 };
         HashMap<Integer, Integer> map = new HashMap<>();
-        /// 1 -> 1
-        /// 3 -> 2
-        /// 4 -> 2
-        /// 2 -> 2
+        ///1-------->1
+        ///3-------->2
+        ///4-------->2
+        ///2-------->2
+        /// 
 
         for (int i : arr) {
             if (map.containsKey(i)) {

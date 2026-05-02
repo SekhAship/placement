@@ -1,5 +1,4 @@
-package today;
-public class c_findmissingelem {
+public class apr21_findmissingelem {
     int[] arr = { 1, 2, 3, 5 };
 
     /// forloop o(n)////isi format pe

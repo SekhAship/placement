@@ -1,15 +1,14 @@
-package today;
 // bruteforce
 // time complexity =o(n)^3
-public class a_printsubarray {
+public class apr21_printsubarray {
     public static void main(String[] args) {
         int c = 0;
         int[] arr = { 1, 2, 3 };
         for (int i = 0; i < arr.length; i++) {
             for (int j = i; j < arr.length; j++) {
-                for (int k = i; k <= j; k++) {
-                    System.out.print(arr[k]);
-                }
+                // for (int k = i; k <= j; k++) {
+                //     System.out.print(arr[k]);
+                // }
                 c++;
                 System.out.println();
 

@@ -2,6 +2,7 @@ package Array.Easy;
 public class c_checkarray {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 9, 3, 4, 5 };
+    
         boolean ans = help(arr);
         System.out.println(ans);
     }
